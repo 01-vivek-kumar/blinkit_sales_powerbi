@@ -1,6 +1,6 @@
 # Blinkit Grocery Sales Dashboard
 
-![Blinkit Sales Dashboard](https://github.com/01-vivek-kumar/blinkit_sales_powerbi/blob/main/Blinkit%20Sales%20Dashboard.png)
+![Blinkit Sales Dashboard](https://github.com/01-vivek-kumar/blinkit_sales_powerbi/blob/main/Blinkit%20Sales%20Dashboard_Overiew.png)
 
 ## 📚 Project Overview
 
