@@ -1,4 +1,6 @@
-# 🌟 Blinkit Grocery Sales Dashboard
+# Blinkit Grocery Sales Dashboard
+
+![Blinkit Sales Dashboard](https://github.com/01-vivek-kumar/blinkit_sales_powerbi/blob/main/Blinkit%20Sales%20Dashboard.png)
 
 ## 📚 Project Overview
 
@@ -131,7 +133,7 @@ Based on the analysis, I came up with a few suggestions:
 
 Here’s a snapshot of the Power BI dashboard I created:  
 
-![Blinkit Sales Dashboard](Blinkit_Sales_Dashboard.png)
+![Blinkit Sales Dashboard](https://github.com/01-vivek-kumar/blinkit_sales_powerbi/blob/main/Blinkit%20Sales%20Dashboard.png)
 
 ---
 
